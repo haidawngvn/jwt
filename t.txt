@@ -1,0 +1,199 @@
+{
+  "code": "200",
+  "message": "Success",
+  "data": [
+    {
+      "full_name": "Đoàn Nguyễn Chung",
+      "pen_name": "Chung Đại Ca",
+      "birth_day": "2022-08-14T17:00:00",
+      "birth_place": "birth_place updat,                                                            birth_place updat,                                                            birth_place update",
+      "home_town": "home_town updat,                                                            home_town updat,                                                            home_town update",
+      "local_phone": "123123",
+      "resident": "resident updat,                                                            resident updat,                                                            resident updat,                                                            resident update",
+      "ethnic": "ethnic update",
+      "religion": "religion update",
+      "background_origin": "background_origin update",
+      "occupation": "Lập trình viên",
+      "identity_card": "identity_card update",
+      "identity_card_where": "identity_card_where update",
+      "identity_card_when": "2022-08-14T17:00:00",
+      "note": null,
+      "gender": 1,
+      "id": 1,
+      "user_id": 619,
+      "family_relationship": [],
+      "go_abroad": [],
+      "journalist_card": [
+        {
+          "pro_id": 1,
+          "number": "45698799999",
+          "number_day": 166723560,
+          "begin": "2022-07-01T17:00:00",
+          "end": "2022-07-29T17:00:00",
+          "note": "",
+          "id": 1,
+          "created_at": "2022-11-03T14:22:03",
+          "updated_at": "2022-11-03T14:22:03"
+        }
+      ],
+      "organization": [],
+      "party": [],
+      "personal_history": [
+        {
+          "pro_id": 1,
+          "type": "string",
+          "city_id": 0,
+          "district_id": 0,
+          "ward_id": 0,
+          "work_place": "string",
+          "working_process": "string",
+          "work_from": "2022-11-11T04:13:46",
+          "work_to": "2022-11-11T04:13:46",
+          "city": "string",
+          "note": "string",
+          "id": 1,
+          "created_at": "2022-11-11T11:13:53",
+          "updated_at": "2022-11-11T11:13:53"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": "123afafaf",
+          "working_process": null,
+          "work_from": "2022-11-03T17:00:00",
+          "work_to": "2022-11-24T17:00:00",
+          "city": null,
+          "note": null,
+          "id": 4,
+          "created_at": "2022-11-15T14:04:44",
+          "updated_at": "2022-11-15T14:04:44"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": "fsss",
+          "working_process": null,
+          "work_from": "2022-11-28T17:00:00",
+          "work_to": "2022-11-29T17:00:00",
+          "city": null,
+          "note": null,
+          "id": 5,
+          "created_at": "2022-11-15T14:05:35",
+          "updated_at": "2022-11-15T14:05:35"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": "hfhhhhd",
+          "working_process": null,
+          "work_from": "2022-11-30T17:00:00",
+          "work_to": "2022-11-04T17:00:00",
+          "city": null,
+          "note": null,
+          "id": 6,
+          "created_at": "2022-11-15T14:12:43",
+          "updated_at": "2022-11-15T14:12:43"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": "7674765475475",
+          "working_process": null,
+          "work_from": "2022-11-30T17:00:00",
+          "work_to": "2022-12-25T17:00:00",
+          "city": null,
+          "note": null,
+          "id": 7,
+          "created_at": "2022-11-15T14:16:02",
+          "updated_at": "2022-11-15T14:16:02"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": null,
+          "working_process": null,
+          "work_from": "2022-10-30T17:00:00",
+          "work_to": null,
+          "city": null,
+          "note": null,
+          "id": 8,
+          "created_at": "2022-11-15T14:51:43",
+          "updated_at": "2022-11-15T14:51:43"
+        },
+        {
+          "pro_id": 1,
+          "type": null,
+          "city_id": null,
+          "district_id": null,
+          "ward_id": null,
+          "work_place": "tkkg",
+          "working_process": null,
+          "work_from": "2022-11-04T17:00:00",
+          "work_to": "2022-11-25T17:00:00",
+          "city": null,
+          "note": null,
+          "id": 9,
+          "created_at": "2022-11-15T15:02:05",
+          "updated_at": "2022-11-15T15:02:05"
+        }
+      ],
+      "reward_discipline": [],
+      "training_fostering": [],
+      "user_degree": [
+        {
+          "pro_id": 1,
+          "type": "",
+          "diploma": "Lập trình",
+          "majors": "",
+          "school_name": "",
+          "education": "Đại học",
+          "begin_study": null,
+          "end_study": null,
+          "foreign_language": "Anh",
+          "permanent_residence": "82/17 nguyen hong dao,                    Xã Hùng Mỹ,                    Huyện Mèo Vạc,Tỉnh Hà Giang",
+          "politic": "Cao cấp",
+          "note": "",
+          "id": 1,
+          "created_at": "2022-11-03T14:22:03",
+          "updated_at": "2022-11-03T14:22:03"
+        }
+      ],
+      "work_object": [],
+      "user_dep_pos": [
+        {
+          "id": 3,
+          "department_name": "Phòng Công nghệ thông tin 12",
+          "position": {
+            "pos_name": "Trưởng phòng công nghệ thông tin",
+            "identifier": "TP",
+            "level": 1
+          }
+        }
+      ],
+      "state": "NEW",
+      "deleted_at": null,
+      "created_at": "2022-11-03T14:22:03",
+      "updated_at": "2022-11-03T14:22:03"
+    }
+  ],
+  "metadata": {
+    "current_page": 1,
+    "page_size": 10,
+    "total_items": 1
+  }
+}
